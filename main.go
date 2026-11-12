@@ -4,8 +4,9 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"wxcloudrun-golang/db"
-	"wxcloudrun-golang/service"
+
+	"github.com/wonderfulstudy/MaterialCreaterServer/db"
+	"github.com/wonderfulstudy/MaterialCreaterServer/service"
 )
 
 func main() {
